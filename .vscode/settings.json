@@ -1,0 +1,4 @@
+{
+    "python.pipenvPath": "./nfl-data-python-app/",
+    "python.analysis.extraPaths": ["./nfl-data-python-app"]
+}
